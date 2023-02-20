@@ -6,7 +6,7 @@
 }
 html {
 	background: #19a1ae url("./assets/background.svg");
-	background-size: auto 100%, cover;
+	background-size: 100% 100%, cover;
 	background-position: center top, center center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
